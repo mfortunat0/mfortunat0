@@ -1,6 +1,6 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Matheus Fortunato
+I am Matheus Fortunato, Web developer Fullstack Javascript
 
 [![Linkedin Badge](https://img.shields.io/badge/-matheusFortunato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fortunato-14513b195/)](https://www.linkedin.com/in/matheus-fortunato-14513b195/)
 [![Youtube Badge](https://img.shields.io/badge/-Channel-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)](https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)
