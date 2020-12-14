@@ -3,6 +3,7 @@
 I am Matheus Fortunato, Web developer Fullstack Javascript
 
 [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fortunato-14513b195/)](https://www.linkedin.com/in/matheus-fortunato-14513b195/)
+[![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/matheus_xmaz10)](https://www.hackerrank.com/matheus_xmaz10)
 [![Youtube Badge](https://img.shields.io/badge/-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)](https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.xmaz10@gmail.com)](mailto:matheus.xmaz10@gmail.com)
 
