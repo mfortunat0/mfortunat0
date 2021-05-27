@@ -26,8 +26,6 @@
 ![Vscode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Brave](https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mfortunat0&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
