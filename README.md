@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-fortunato-14513b195/)](https://www.linkedin.com/in/matheus-fortunato-14513b195/)
 [![Hackerrank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/matheus_xmaz10)](https://www.hackerrank.com/matheus_xmaz10)
-[![Youtube Badge](https://img.shields.io/badge/-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)](https://www.youtube.com/channel/UCNY1ALJjj5uHcsYV-E_osQA)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white&link=https://matheus-xmaz10.medium.com/)](https://matheus-xmaz10.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.xmaz10@gmail.com)](mailto:matheus.xmaz10@gmail.com)
 <br/>
 ![](https://komarev.com/ghpvc/?username=mfortunat0)
@@ -13,16 +13,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node-dot-js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-E0234E?style=flat-square&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white)
+![Nextjs](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 
 ## 🧰 Tools
