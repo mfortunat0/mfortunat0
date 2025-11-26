@@ -8,5 +8,4 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=mfortunat0)
 
-## 🧰 Tools
 ![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
